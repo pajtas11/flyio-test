@@ -1,5 +1,0 @@
-
-app = "nginx-on-fly-io-test"
-
-[env]
-  PORT = "8080"
