@@ -1,7 +1,5 @@
-app = "Fly.io nginx test"
 
-[build]
-  dockerfile = "Dockerfile"
+app = "nginx-on-fly-io-test"
 
 [env]
   PORT = "8080"
