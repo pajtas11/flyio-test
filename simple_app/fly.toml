@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for simple-pcr-app on 2026-01-07T17:27:30Z
+# fly.toml app configuration file generated for simple-pcr-app on 2026-02-13T06:55:44Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'simple-pcr-app'
-primary_region = 'cdg'
+primary_region = 'ams'
 
 [build]
 
